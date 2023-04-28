@@ -23,9 +23,10 @@ So first of all we need to go to install go programming language is open golang.
 
 You can easily see easily one big download button. You can click that and it will navigate your browser to download page. On that page you can choose golang version that you willing to install and the os version for your machine. I am going to choose the latest version of golang for linux installation because my machine is ubuntu. 
 
-```
-Notes: By the times this docs created, the latest version of golang is go1.20.3.
-```
+---
+**NOTE**
+By the times this docs created, the latest version of golang is go1.20.3.
+---
 
 #### Remove any previous Go installation
 
