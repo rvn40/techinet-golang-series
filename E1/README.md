@@ -13,7 +13,7 @@ Today go language is become one of popular language, especially for create an RE
 
 For instruction in video format:
 
-[<img src="https://storage.googleapis.com/techinet-public/youtube/thumbnails/PythonSeries/E2.png" width="560" height="315">](https://www.youtube.com/embed/7cng0PQeBzE)
+[<img src="https://storage.googleapis.com/techinet-public/youtube/thumbnails/GolangSeries/E1.png" width="560" height="315">](https://www.youtube.com/embed/7cng0PQeBzE)
 
 ## How to install
 
