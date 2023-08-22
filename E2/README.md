@@ -40,4 +40,4 @@ The fmt.Println() function is in the fmt package, so to use it you need to impor
 
 ## Demo
 
-[<img src="https://storage.googleapis.com/techinet-public/youtube/thumbnails/GolangSeries/E2.png" width="560" height="315">](https://www.youtube.com/embed/WQ_f8Hkn5AY)
+[<img src="https://storage.googleapis.com/techinet-public/youtube/thumbnails/GolangSeries/E2.png" width="560" height="315">](https://www.youtube.com/embed/Kuo9o4dd1tE)
