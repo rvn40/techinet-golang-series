@@ -1,6 +1,6 @@
-# Go Labs(Ngoprek): First Program and Values 
+# Go Labs(Ngoprek): Initiate Golang Project 
 
-In this chapter we will describe the creation of the first program, a small application that displays Hello world text. Below is an example of a simple program code for bringing Hello world text to the output command prompt screen.
+In this chapter we will learn how to initialize a project using Go Modules. Modules themselves in this case can also be interpreted as a project.
 
 ```
 package main
