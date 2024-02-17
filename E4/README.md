@@ -29,4 +29,4 @@ You can see the differences between those example. The purpose remainly same but
 
 ## Demo
 
-[<img src="https://storage.googleapis.com/techinet-public/youtube/thumbnails/GolangSeries/E4.png" width="560" height="315">](https://www.youtube.com/embed/Kuo9o4dd1tE)
+[<img src="https://storage.googleapis.com/techinet-public/netsents/techinets/youtube/thumbnails/GolangSeries/E4.png" width="560" height="315">](https://www.youtube.com/embed/Kuo9o4dd1tE)
