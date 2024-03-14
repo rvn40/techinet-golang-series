@@ -2,8 +2,6 @@
 
 As many people know Golang has a Go compiler that is initially written in C. So, go adopts two types of variable writing, namely with and without data types. Both methods are valid and have the same purpose, the difference is only in the way of writing.
 
-There are two types of comment in GO, which are inline and multiline comment.
-
 ## Variable with Data Types
 
 Go has pretty strict concept when it comes to writing variables, This concept is called manifest typing. Manifest typing refers to the practice of explicitly declaring the type of a variable or expression in your code. When you declare a variable, you provide its type explicitly. This approach ensures that the type of a variable is known at compile time and helps catch type-related errors early in the development process.
