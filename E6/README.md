@@ -1,6 +1,8 @@
 # Go Labs(Ngoprek): Data type Part 1 - String and Boolean
 
-As many people know Golang has a Go compiler that is initially written in C. So, go adopts two types of variable writing, namely with and without data types. Both methods are valid and have the same purpose, the difference is only in the way of writing.
+In this session, we will explore the essential concepts of Strings and Booleans. This docs is designed to provide a comprehensive understanding of these fundamental data types, which are crucial for text manipulation and logical operations in Go.
+
+We will begin by examining string handling, including various methods for manipulating and formatting text. Following this, we will delve into Boolean logic, covering the principles of true and false values and their practical applications in conditional statements and logical operations.
 
 ## Data Type String
 
@@ -65,4 +67,4 @@ In this snippet, we have declare a couple of boolean variables, isTrue and isFal
 
 ## Demo
 
-[<img src="https://storage.googleapis.com/techinet-public/youtube/thumbnails/GolangSeries/E6.png" width="560" height="315">](https://www.youtube.com/embed/zu1hgHPo3H4?si=XwpKc0RaWApFNEi3)
+[<img src="https://storage.googleapis.com/techinet-public/youtube/thumbnails/GolangSeries/E6.png" width="560" height="315">](https://www.youtube.com/embed/smpPdrmOslE?si=ARGj9zcPVjdZC1co)
