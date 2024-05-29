@@ -4,7 +4,7 @@ We will delve into the critical concepts of complex data type. This docs is desi
 
 This documentation aims to present clear and detailed examples to support techinet sharing session. We encourage you to follow along and apply these concepts to enhance your expertise in Go programming.
 
-## Data Type String
+## Data Type Numeric: Complex
 
 
 

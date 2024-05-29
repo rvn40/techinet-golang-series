@@ -4,7 +4,7 @@ In this session, we will explore the concept of constant data types in Go. This 
 
 This documentation provides detailed examples and explanations to facilitate your learning experience. By the end of this docs, you will have a solid grasp of how to implement and leverage constants in your Go programs to achieve robust and efficient code.
 
-## Data Type String
+## Constant
 
 
 

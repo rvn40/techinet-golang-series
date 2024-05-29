@@ -4,7 +4,7 @@ We will delve into the critical concepts of Integers and Floats. This docs is de
 
 This documentation aims to present clear and detailed examples to support techinet sharing session. We encourage you to follow along and apply these concepts to enhance your expertise in Go programming.
 
-## Data Type String
+## Data Type Numeric: Integer and Float
 
 
 ## Demo
