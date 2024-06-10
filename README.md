@@ -12,3 +12,4 @@ Documentation of golang series techinet official channel.
 7. [E7 - Go Labs(Ngoprek): Numeric: Integer and Float](E7/README.md)
 8. [E8 - Go Labs(Ngoprek): Numeric: Complex](E8/README.md)
 9. [E9 - Go Labs(Ngoprek): Constant](E9/README.md)
+9. [E10 - Go Labs(Ngoprek): Operators](E10/README.md)
