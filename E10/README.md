@@ -114,7 +114,6 @@ func main() {
 }
 ```
 
-
 ## Demo
 
 [<img src="https://storage.googleapis.com/techinet-public/youtube/thumbnails/GolangSeries/E10.png" width="560" height="315">](https://youtu.be/eualxipISOI)
