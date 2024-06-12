@@ -184,4 +184,4 @@ These examples should give you a broad overview of how versatile the `for` loop 
 
 ## Demo
 
-[<img src="https://storage.googleapis.com/techinet-public/youtube/thumbnails/GolangSeries/E10.png" width="560" height="315">](https://youtu.be/eualxipISOI)
+[<img src="https://storage.googleapis.com/techinet-public/youtube/thumbnails/GolangSeries/E11.png" width="560" height="315">](https://youtu.be/eualxipISOI)
